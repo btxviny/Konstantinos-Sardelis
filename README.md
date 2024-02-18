@@ -1,15 +1,15 @@
 # Machine Learning Engineer
 I am an Electrical Engineer-Computer Science graduate with in-depth knowledge and passion for machine learning. I am able to transform the latest research papers into code implementations, train neural networks efficiently and build applications.
 
+## Education
+- MEng in Electrical Engineering and Computer Science, Computer Software & Hardware, University of Patras. 
+- Diploma thesis on Deep Learning Video Stabilization.
+  
 ## Technical Skills: 
 Machine learning algorithms| Computer Vision| Natural language processing| Distributed Training| Pytorch| Tensorflow| Docker | Google Cloud Platform| Matlab| Signal Processing | OpenMP| Parallel Computing | SQL|
 
 ## Soft Skills: 
 Attention to Detail |  Leadership |  Resourcefulness | Communication
-
-## Education
-- MEng in Electrical Engineering and Computer Science, Computer Software & Hardware, University of Patras. 
-- Diploma thesis on Deep Learning Video Stabilization.
 
 ## Experience
 - ### Diploma thesis – [Deep Learning Video Stabilization](https://github.com/btxviny/example_portfolio/blob/main/thesis.pdf):
