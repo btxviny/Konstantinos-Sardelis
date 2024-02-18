@@ -12,7 +12,7 @@ Machine learning algorithms| Computer Vision| Natural language processing| Distr
 Attention to Detail |  Leadership |  Resourcefulness | Communication
 
 ## Experience
-- ### Diploma thesis – [Deep Learning Video Stabilization](https://github.com/btxviny/Konstantinos-Sardelis/blob/main/thesis.pdf):
+- ### Diploma thesis – [Deep Learning Video Stabilization](/assets/thesis.pdf):
   ![img](/assets/img/stab_result.gif).
 - I gained in-depth knowledge of Computer Vision concepts through implementing and modifying numerous research papers.
 - I became familiar with Deep Learning training principles and best practices.
